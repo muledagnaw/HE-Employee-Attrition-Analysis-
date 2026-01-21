@@ -13,6 +13,8 @@ The dashboard provides a comprehensive view of workforce demographics, attrition
 
 ---
 <iframe title="HR" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzRmYjc5Y2QtYmZiMC00ZTNjLTg4NjQtZGM3NDQ1ZWI2MzZhIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9&pageName=bab84a750b9028372bd6" frameborder="0" allowFullScreen="true"></iframe>
+<img width="1692" height="835" alt="image" src="https://github.com/user-attachments/assets/d18b6427-7c82-4e27-9591-2d96e076e9c1" />
+
 ---
 ## 🎯 Objectives
 
