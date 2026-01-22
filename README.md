@@ -116,7 +116,7 @@ These slicers enable deeper exploration and customised analysis.
 ## 💡 Insights & Interpretation
 
 * Attrition is concentrated in specific **job roles** and **educational backgrounds**
-* **Female employees** show higher turnover, suggesting potential cultural or structural issues
+* **Male employees** show higher turnover, suggesting potential cultural or structural issues
 * **Early-career employees** are more likely to leave, highlighting onboarding and career growth opportunities
 * **Salary increases alone** may not be sufficient to significantly reduce attrition
 
