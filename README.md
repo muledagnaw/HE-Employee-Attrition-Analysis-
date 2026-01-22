@@ -21,7 +21,7 @@ I found the dataset from Kaggle [HR Dataset](https://www.kaggle.com/datasets/ris
 * Deliver **actionable insights** to support HR decision-making and improve retention
 
 ---
-# This is the Power BI dashboard that shows HR Employee Attrition Analysis
+## This is the Power BI dashboard that shows HR Employee Attrition Analysis
 
 <img width="1343" height="756" alt="image" src="https://github.com/user-attachments/assets/4c10cc8b-94c8-4fd5-87b3-77a927ac7620" />
 
