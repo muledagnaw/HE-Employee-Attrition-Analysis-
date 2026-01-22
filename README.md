@@ -2,7 +2,7 @@
 
 # 📉 HR Employee Attrition Analysis Dashboard
 
-I found Dataset from Kaggle [HR Dataset](https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction) <img width="1882" height="962" alt="excel" src="https://github.com/user-attachments/assets/cc0fe0f6-20ce-4761-b905-b0514ee8d108" />.
+I found the dataset from Kaggle [HR Dataset](https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction) <img width="1882" height="962" alt="excel" src="https://github.com/user-attachments/assets/cc0fe0f6-20ce-4761-b905-b0514ee8d108" />.
 
 
 ## 📌 Overview
