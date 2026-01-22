@@ -12,9 +12,9 @@ This project showcases an **HR Employee Attrition Analysis Dashboard** developed
 The dashboard provides a comprehensive view of workforce demographics, attrition trends, and job-related factors. It answers critical HR questions such as **who is leaving**, **why they may be leaving**, and **which roles or groups are most affected**, enabling data-driven retention strategies.
 
 ---
-<img width="1692" height="835" alt="image" src="https://github.com/user-attachments/assets/d18b6427-7c82-4e27-9591-2d96e076e9c1" />
-<iframe title="HR" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzRmYjc5Y2QtYmZiMC00ZTNjLTg4NjQtZGM3NDQ1ZWI2MzZhIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9&pageName=bab84a750b9028372bd6" frameborder="0" allowFullScreen="true"></iframe>
+<img width="1750" height="847" alt="image" src="https://github.com/user-attachments/assets/5b91c228-452d-4106-97b8-ddefa91d5f7a" />
 
+<iframe title="HR" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzRmYjc5Y2QtYmZiMC00ZTNjLTg4NjQtZGM3NDQ1ZWI2MzZhIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ---
 ## 🎯 Objectives
