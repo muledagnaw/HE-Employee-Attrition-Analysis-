@@ -1,8 +1,6 @@
 
 
-# 📉 HR Employee Attrition Analysis Dashboard
-
-I found the dataset from Kaggle [HR Dataset](https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction) <img width="1882" height="962" alt="excel" src="https://github.com/user-attachments/assets/cc0fe0f6-20ce-4761-b905-b0514ee8d108" />.
+# 📉 HR Employee Attrition Analysis 
 
 
 ## 📌 Overview
@@ -11,6 +9,8 @@ This project showcases an **HR Employee Attrition Analysis Dashboard** developed
 
 The dashboard provides a comprehensive view of workforce demographics, attrition trends, and job-related factors. It answers critical HR questions such as **who is leaving**, **why they may be leaving**, and **which roles or groups are most affected**, enabling data-driven retention strategies.
 
+I found the dataset from Kaggle [HR Dataset](https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction) <img width="1882" height="962" alt="excel" src="https://github.com/user-attachments/assets/cc0fe0f6-20ce-4761-b905-b0514ee8d108" />.
+* HR Employee Attrition Analysis Dashboard
 ---
 <img width="1343" height="756" alt="image" src="https://github.com/user-attachments/assets/4c10cc8b-94c8-4fd5-87b3-77a927ac7620" />
 
