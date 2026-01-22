@@ -18,7 +18,6 @@ I found the dataset from Kaggle [HR Dataset](https://www.kaggle.com/datasets/ris
 * Analyse employee attrition across **demographic** and **job-related** dimensions
 * Identify **high-risk groups** and roles with elevated turnover
 * Understand how **age, salary, education, and tenure** influence attrition
-* Deliver **actionable insights** to support HR decision-making and improve retention
 
 ---
 ## This is the Power BI dashboard that shows HR Employee Attrition Analysis
