@@ -49,7 +49,6 @@ These metrics provide a quick snapshot of overall workforce stability and risk.
 
 * Visualised using a pie chart
 * Highest attrition observed among **Life Sciences** and **Medical** backgrounds
-* Helps identify whether certain educational groups face higher dissatisfaction or external demand
 
 ---
 
@@ -57,7 +56,7 @@ These metrics provide a quick snapshot of overall workforce stability and risk.
 
 
 * Donut chart comparing male and female attrition
-* **Female employees** represent a higher share of attrition
+* **Male employees** represent a higher share of attrition
 * Highlights potential gender-specific workplace challenges
 
 ---
@@ -66,7 +65,6 @@ These metrics provide a quick snapshot of overall workforce stability and risk.
 
 
 * Combined **bar and line chart** showing:
-
   * Attrition count by age
   * Attrition rate (%) by age group
 * Reveals whether **early-career**, **mid-career**, or **late-career** employees are more likely to leave
@@ -75,27 +73,20 @@ These metrics provide a quick snapshot of overall workforce stability and risk.
 
 ### 4️⃣ Attrition by Job Role
 
-* Tabular breakdown of attrition by role
+* Matrix showing attrition by role
 * Higher turnover in:
-
   * Laboratory Technicians
   * Research Scientists
   * Sales Executives
 * Lower attrition in senior roles such as **Managers** and **Directors**
-* Supports targeted retention strategies by job family
-
 ---
 
 ### 5️⃣ Attrition by Salary Hike
 
-
 * Bar chart showing attrition across salary increase percentages
 * Helps evaluate whether **salary hikes alone** are effective in reducing turnover
-
 ---
-
 ### 6️⃣ Attrition by Years at Company
-
 
 * Area chart visualising attrition by tenure
 * **Higher attrition during early years**, indicating onboarding or engagement gaps
@@ -118,7 +109,6 @@ These slicers enable deeper exploration and customised analysis.
 
 * **Power BI Desktop**
 * **DAX** for calculated measures
-* **Data Modelling** for relationships and hierarchies
 * **Interactive Visuals** for exploratory analysis
 
 ---
@@ -129,4 +119,5 @@ These slicers enable deeper exploration and customised analysis.
 * **Female employees** show higher turnover, suggesting potential cultural or structural issues
 * **Early-career employees** are more likely to leave, highlighting onboarding and career growth opportunities
 * **Salary increases alone** may not be sufficient to significantly reduce attrition
- find this project useful, feel free to star the repository and share feedback!*
+
+  ## This analysis would help for HR to design targeted retention startegies.
