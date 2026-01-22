@@ -120,4 +120,4 @@ These slicers enable deeper exploration and customised analysis.
 * **Early-career employees** are more likely to leave, highlighting onboarding and career growth opportunities
 * **Salary increases alone** may not be sufficient to significantly reduce attrition
 
-  ## This analysis would help for HR to design targeted retention startegies.
+  ### Recommendation: This analysis would help for HR to design targeted retention startegies.
