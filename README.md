@@ -72,9 +72,9 @@ These metrics provide a quick snapshot of overall workforce stability and risk.
 
 ### 4️⃣ Attrition by Job Role and Job Satisfaction
 *	Highest attrition roles:
- *		Sales Representative
- *		Sales Executive
- *			Research Scientist 
+  *	Sales Representative
+ *	Sales Executive
+ *	Research Scientist 
 * Satisfaction levels:
   * Most attrition occurs at satisfaction levels 1 and 2 
 • 	Insight: Sales roles and low satisfaction scores are strongly correlated with attrition. These roles may need better support, incentives, or career development paths.
