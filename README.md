@@ -20,7 +20,7 @@ I found the dataset from Kaggle [HR Dataset](https://www.kaggle.com/datasets/ris
 * Understand how **age, salary, education, and tenure** influence attrition
 
 ---
-## This is the Power BI dashboard that shows HR Employee Attrition Analysis
+### This is the Power BI dashboard that shows HR Employee Attrition Analysis
 
 <img width="1527" height="847" alt="image" src="https://github.com/user-attachments/assets/849e1773-8f77-462b-a20b-0b6b24619203" />
 
