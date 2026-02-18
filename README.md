@@ -71,12 +71,12 @@ The dashboard highlights the following core workforce indicators:
 
 ### 4️⃣ Attrition by Job Role and Job Satisfaction
 *	Highest attrition roles:
-  *	Sales Representative
- *	Sales Executive
- *	Research Scientist 
+    *	Sales Representative
+    *	Sales Executive
+    *	Research Scientist 
 * Satisfaction levels:
-  * Most attrition occurs at satisfaction levels 1 and 2 
-• 	Insight: Sales roles and low satisfaction scores are strongly correlated with attrition. These roles may need better support, incentives, or career development paths.
+   * Most attrition occurs at satisfaction levels 1 and 2 
+*	Insight: Sales roles and low satisfaction scores are strongly correlated with attrition. These roles may need better support, incentives, or career development paths.
 ---
 
 ### 5️⃣ Attrition by Salary Hike
