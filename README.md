@@ -38,8 +38,6 @@ The dashboard highlights the following core workforce indicators:
 * 💰 **Average Salary:** 6.50K
 * ⏳ **Average Tenure:** 7.01 years
 
-These metrics provide a quick snapshot of overall workforce stability and risk.
-
 ---
 
 ## 📈 Dashboard Components
